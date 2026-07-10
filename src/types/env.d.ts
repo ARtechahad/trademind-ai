@@ -1,0 +1,6 @@
+declare module '@env' {
+  export const SUPABASE_URL: string;
+  export const SUPABASE_ANON_KEY: string;
+  export const AI_PROXY_URL: string;
+  export const FINNHUB_API_KEY: string;
+}
